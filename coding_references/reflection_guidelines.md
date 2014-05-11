@@ -17,3 +17,6 @@ Answer the following questions (in addition to the challenge-specific questions)
 * How confident are you with each of the Learning Competencies? 
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
+* 
+
+Code combat was certainly a fun unexpected change of pace, but I'm not sure I had enough of an understanding of Javascript to really interpret broader lessons from the exercise, but I guess time will tell! Taking the time to do psuedo code is also difficult considering the simplicity of the exercise, but I suppose the goal isn't to help us accomplish this paritcular challenge's objective, but to establish good habits. Some aspects of Code Combat were confusing, such as when typing "this.moveUp()" the character seems to move an unspecified distance. I assume this distance is already coded but hidden?
